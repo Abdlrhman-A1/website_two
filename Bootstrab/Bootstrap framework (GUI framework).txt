@@ -1,0 +1,18 @@
+Bootstrap framework is GUI framework provide ready elements like icons
+- idea of framwwork we has knowledge to build this thing but we use ready element to save time (متعدش اختراع العجلة كل شوية)
+- Not Must use framework professional software developers not use framework (and his work modular)
+- framework not have all thing most time we write HC JS 
+- okay you create framework but must puplish it to become to framework community
+- when download Bootstrap be two folders (CSS folder , JS folder)
+- how use Bootstrab framework 
+1 - okay we use all Bootstrap in web application (use 2 files bootstrab.min.css , bootstrap.min.css.map)
+2 - just use grid system if bootstrab to make structure of sections in web application
+
+روق علي الكلام واستدعي بردوا ملفات font ausom (font ausom provide fon icons)
+css is powerfull gui language in eart that use alone to build GUI frameworks 
++ font ausom is a GUI library 
+
+bootstrab is the power full framework to icons we merge is files with files of font ausom in one folder and import css files of both bootstrab and font ausom in index.html est icons be svg element not i element 	
+
+- in the end bootstrap is folder ( CSS ,JS, Webfont ) this folder create from download bootstrap folder and web fonts 
+folder and merge them files and import css files from merging folder 
